@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customerservice/customerservice.iml" filepath="$PROJECT_DIR$/customerservice/customerservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kmitl-esd-exercise2-61090036-Bey.iml" filepath="$PROJECT_DIR$/kmitl-esd-exercise2-61090036-Bey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customerservice/kmitl-esd-exercise2-61090036-Bey (1) (kmitl-esd-exercise2).iml" filepath="$PROJECT_DIR$/customerservice/kmitl-esd-exercise2-61090036-Bey (1) (kmitl-esd-exercise2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
+    </modules>
+  </component>
+</project>
